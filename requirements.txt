@@ -1,0 +1,14 @@
+langchain-ollama
+langchain-core
+markdown2
+tkhtmlview
+pyttsx3
+SpeechRecognition
+psutil
+GPUtil
+matplotlib
+numpy
+setuptools
+Pillow
+pyaudio
+seaborn

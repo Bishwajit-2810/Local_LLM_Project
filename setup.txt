@@ -1,0 +1,2 @@
+python -m venv ~/code/Local_LLM_Project/
+pip install -r requirements.txt
